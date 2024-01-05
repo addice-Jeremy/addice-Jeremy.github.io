@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://soon-addice-Jeremy.github.io/sitemap.xml
+Sitemap: https://addice-Jeremy.github.io/sitemap.xml
