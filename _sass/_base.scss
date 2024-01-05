@@ -408,11 +408,19 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  text-align: center; /* Center align the text */
+  display: flex; /* Use flexbox to center the content */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
 
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
+    width: 100%; /* Ensure the container fills the footer */
+    display: flex; /* Use flexbox for the inner container */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
   }
 
   a {
@@ -425,11 +433,16 @@ footer.fixed-bottom {
   }
 }
 
+
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+  text-align: center; /* Center align the text */
+  display: flex; /* Use flexbox to center the content */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
 }
 
 // CV
