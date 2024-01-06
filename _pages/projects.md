@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: some fun nifty ongoing/ current projects
+description: some fun nifty ongoing/ completed projects
 nav: true
 nav_order: 3
 display_categories: [work, fun]
