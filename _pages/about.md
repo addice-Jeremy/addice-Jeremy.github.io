@@ -22,4 +22,4 @@ I like to use data to add value - I am passionate about leveraging my skills in 
 
 <strong>things I enjoy</strong> - sports including badminton and biking; strategic games like chess, poker, fps games; being spontaneous, cooking, chinese hip-hop, exploring new cities, watching new movies. 
 
-<strong>things I want to learn more</strong> - LLM's, photography, playing guitar, bouldering, computer vision, deep learning, stock market investment
+<strong>things I want to learn more</strong> - LLM's, photography, playing guitar, bouldering, computer vision, deep learning, stock market investment.
