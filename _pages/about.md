@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate @ <a href='https://www.cmu.edu/'>Carnegie Mellon Univeristy </a>
+subtitle: Hi, I'm Jeremy.
 
 profile:
   align: right
@@ -16,8 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m currently a junior at Carnegie Mellon University, majoring in [Statistics & Machine Learning](http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/#statsmltext) with additional minors in [Artifical Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/minor) and [Business Analytics](https://www.cmu.edu/tepper/programs/undergraduate-business/curriculum/majors-and-minors.html). I like to use data science to add value - I am passionate about leveraging my skills in data science, machine learning, and artifical intelligence to meaningful projects. 
+I’m currently studyig <em>Statistics & Machine Learning, Artifical Intelligence, and Business Analytics</em> at <a href='https://www.cmu.edu/'>Carnegie Mellon Univeristy</a>. I'm originally from New York City and am currently based in Pittsburgh.
 
-Let's connect with any potential opportunities. You can reach me by [jiabinl@andrew.cmu.edu](mailto:“jiabinl@andrew.cmu.edu") or [lij061703@gmail.com](mailto:“lij061703@gmail.com").
+I like to use data to add value - I am passionate about leveraging my skills in DS, ML, and AI to meaningful projects. You can reach me by [jiabinl@andrew.cmu.edu](mailto:“jiabinl@andrew.cmu.edu").
 
-Outside of academics, I play sports including badminton, biking, and volleyball. I also like to play strategic games with no one definite correct way such as poker and chess. In addition, I love to be spontaneous, cook, play FPS games, explore new cities, and watch movies!
+<strong>things I enjoy</strong> - sports including badminton and biking; strategic games like chess, poker, fps games; being spontaneous, cooking, chinese hip-hop, exploring new cities, watching new movies. 
+
+<strong>things I want to learn more</strong> - LLM's, photography, playing guitar, bouldering, computer vision, deep learning, stock market investment
